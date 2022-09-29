@@ -1,6 +1,6 @@
 𝐭𝐞𝐨𝐫𝐢𝐚𝐁𝐚𝐬𝐢𝐜𝐂𝐮𝐚𝐧𝐎𝐛𝐬𝐌𝐞𝐝
 
--𝐀𝐮𝐭𝐨𝐫𝐚= 𝐌𝐚𝐫𝐢𝐚𝐏𝐚𝐮𝐥𝐚 𝐑𝐨𝐛𝐢𝐧𝐬𝐨𝐧 𝐇𝐢𝐝𝐚𝐥𝐠𝐨. -El programa se realizo con python.  
+-𝐀𝐮𝐭𝐨𝐫𝐚= 𝐌𝐚𝐫𝐢𝐚 𝐏𝐚𝐮𝐥𝐚 𝐑𝐨𝐛𝐢𝐧𝐬𝐨𝐧 𝐇𝐢𝐝𝐚𝐥𝐠𝐨. -El programa se realizo con python.  
 
 Se usa 𝐧𝐮𝐦𝐩𝐲, para cuando se ejecute el programa se tenga la la libreria descarga. 
 
