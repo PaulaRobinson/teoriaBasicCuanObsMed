@@ -2,7 +2,7 @@
 
 -𝐀𝐮𝐭𝐨𝐫𝐚= 𝐌𝐚𝐫𝐢𝐚 𝐏𝐚𝐮𝐥𝐚 𝐑𝐨𝐛𝐢𝐧𝐬𝐨𝐧 𝐇𝐢𝐝𝐚𝐥𝐠𝐨. -El programa se realizo con python.  
 
-Se usa 𝐧𝐮𝐦𝐩𝐲, para cuando se ejecute el programa se tenga la la libreria descarga. 
+Se usa 𝐧𝐮𝐦𝐩𝐲, para cuando se ejecute el programa se tenga la libreria descarga. 
 
 Hola, en esta libreria se encuentran los retos de progrmacion del libro Quantum Computing for Computer Scientists del capitulo 4.
 
