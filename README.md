@@ -1,5 +1,5 @@
 teoriaBasicCuanObsMed 
--Autora= MariaPaula Robinson Hidalgo. -El programa se realizo con python. Abir el programa en Pycharm para ejercutarlo.
+-Autora= MariaPaula Robinson Hidalgo. -El programa se realizo con python.  Se usa numpy.
 
 Hola, en esta libreria se encuentran los retos de progrmacion del libro Quantum Computing for Computer Scientists del capitulo 4.
 
