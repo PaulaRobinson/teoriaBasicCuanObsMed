@@ -2,11 +2,9 @@
 
 -𝐀𝐮𝐭𝐨𝐫𝐚= 𝐌𝐚𝐫𝐢𝐚 𝐏𝐚𝐮𝐥𝐚 𝐑𝐨𝐛𝐢𝐧𝐬𝐨𝐧 𝐇𝐢𝐝𝐚𝐥𝐠𝐨. -El programa se realizo con python.  
 
-Se usa 𝐧𝐮𝐦𝐩𝐲, para cuando se ejecute el programa se tenga la libreria descarga. 
-
 Hola, en esta libreria se encuentran los retos de programacion del libro Quantum Computing for Computer Scientists del capitulo 4.
 
-Para el desarrollo de esta libreria se uso numpy un libreria de python para la manipulacion y operacion de datos enlistas ordenadas. Conceptos como Vector ket, observable, varianza, media y matriz unitaria se veran en el programa.
+Para el desarrollo de esta libreria se uso 𝐧𝐮𝐦𝐩𝐲 un libreria de python para la manipulacion y operacion de datos enlistas ordenadas. Conceptos como Vector ket, observable, varianza, media y matriz unitaria se veran en el programa.
 
 Se prevé que el usuario tiene conocimineto de cada una de las instrucciones a ejecutar.
 
